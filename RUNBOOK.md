@@ -14,25 +14,25 @@ This runbook explains how to **operate, monitor, and troubleshoot** the project 
 ## 2) One-page Setup Recap (with screenshots)
 
 1. **Create S3 bucket**  
-[![S3 Bucket Created](screenshots/1_Bucket%20created%20Successfully.png)]
+[![S3 Bucket Created](https://github.com/Alokpatel07/aws-event-driven-pipeline/blob/main/Screenshots/1_Bucket%20created%20Successfully.png)]
 
 2. **Create IAM role for Lambda**  
-[![IAM Role for DynamoDB](screenshots/2_Role%20for%20DynamoDB%20Access.png)]
+[![IAM Role for DynamoDB](https://github.com/Alokpatel07/aws-event-driven-pipeline/blob/main/Screenshots/2_Role%20for%20DynamoDB%20Access.png)]
 
 4. **Create Lambda function & add code**  
-[![Lambda Function Created](screenshots/3_Lambda%20Function%20Created.png)]
+[![Lambda Function Created](https://github.com/Alokpatel07/aws-event-driven-pipeline/blob/main/Screenshots/3_Lambda%20Function%20Created.png)]
 
 5. **Create DynamoDB Table**  
-[![DynamoDB Table Created](screenshots/4_DB%20Table%20created%20and%20is%20initially%20empty.png)]
+[![DynamoDB Table Created](https://github.com/Alokpatel07/aws-event-driven-pipeline/blob/main/Screenshots/4_DB%20Table%20created%20and%20is%20initially%20empty.png)]
 
 5. **Add S3 trigger to Lambda**  
-[![S3 Trigger Added](screenshots/5_Added%20S3%20Trigger%20to%20Lambda.png)]
+[![S3 Trigger Added](https://github.com/Alokpatel07/aws-event-driven-pipeline/blob/main/Screenshots/5_Added%20S3%20Trigger%20to%20Lambda.png)]
 
 6. **Upload a file to S3**  
-[![File Uploaded to S3](screenshots/6_Uploaded%20Object%20on%20S3%20bucket.png)]
+[![File Uploaded to S3](https://github.com/Alokpatel07/aws-event-driven-pipeline/blob/main/Screenshots/6_Uploaded%20Object%20on%20S3%20bucket.png)]
 
 7. **See row in DynamoDB**  
-[![DynamoDB Updated](screenshots/7_%20Table%20is%20updated%20with%20an%20entry.png)]
+[![DynamoDB Updated](https://github.com/Alokpatel07/aws-event-driven-pipeline/blob/main/Screenshots/7_%20Table%20is%20updated%20with%20an%20entry.png)]
 
 
 ---
